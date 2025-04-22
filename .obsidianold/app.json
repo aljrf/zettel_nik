@@ -1,0 +1,18 @@
+{
+  "fileSortOrder": "byModifiedTime",
+  "foldHeading": true,
+  "foldIndent": true,
+  "obsidianCss": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments/Areas",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true
+}

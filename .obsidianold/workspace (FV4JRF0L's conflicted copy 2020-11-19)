@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "239d1a9dfd6e3fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0bcd4f07350cf03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project list.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fe8d6036a488e0d0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b3b80dd046142879",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7350fe6b9f67a69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8569839b14d72061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150dd5c766d0b01c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a56d47f080259e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "124c01b9cf29b7d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "04ad37f5b6c26c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "48624c23695e73df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c541838ed76d6035",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md"
+              }
+            }
+          },
+          {
+            "id": "d4b46060485e84ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "add2d4c79ddf7906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Project list.md",
+    "Untitled.md",
+    "keyer.md",
+    "keyboard layout.md",
+    "install Altium @dell.md",
+    "todo list.md",
+    "keyer steps.md"
+  ]
+}

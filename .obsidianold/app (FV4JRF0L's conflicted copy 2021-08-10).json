@@ -1,0 +1,17 @@
+{
+  "fileSortOrder": "byModifiedTime",
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true
+}

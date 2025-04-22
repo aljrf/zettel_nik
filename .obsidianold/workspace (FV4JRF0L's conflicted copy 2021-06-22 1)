@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "239d1a9dfd6e3fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fffac8e1ed8c7103",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Keyboard endgame.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7350fe6b9f67a69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8569839b14d72061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150dd5c766d0b01c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a56d47f080259e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "taxes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "124c01b9cf29b7d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "04ad37f5b6c26c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0090c87d518d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa31e4170d716c28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c541838ed76d6035",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Keyboard endgame.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5aca7229ac85ebd0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b8276c266c13a44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Keyboard endgame.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "40f1bada84b17888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b46060485e84ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc8e1d52c6a756fd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.3999938964844
+  },
+  "active": "fffac8e1ed8c7103",
+  "lastOpenFiles": [
+    "Keyboard endgame.md",
+    "todo list.md",
+    "Info management.md",
+    "Health.md",
+    "health schedule.md",
+    "Problem generator.md",
+    "Stationery setup.md",
+    "daily_notes/2021-w12.md",
+    "Project list.md",
+    "Computer related projects.md"
+  ]
+}

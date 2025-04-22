@@ -1,0 +1,8 @@
+{
+  "contextAwareMode": true,
+  "sourceSupport": true,
+  "codeHighlightSupport": false,
+  "contextSeparator": " > ",
+  "deck": "italian",
+  "flashcardsTag": "card"
+}

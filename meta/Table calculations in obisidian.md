@@ -1,0 +1,7 @@
+- `@<` and `$<` mean the first row and first column, respectively.
+- `@>` and `$>` mean the last row and last column, respectively.
+- `@I` referrs to the line separating the table header from the table body.
+- `$+2` would mean "the same row, two columns right".
+- `@-1` means "the same column, one row above"
+- `@2$4` means the single cell in row 2, column 4
+- if(@3$4<@4$5, @2, @3)

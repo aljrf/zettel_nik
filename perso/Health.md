@@ -1,0 +1,27 @@
+- [ ] book teeth revision
+- [x] Ask Mb to book a checkup with insurance doctor
+- [x] check lump with doctor
+- [x] book analytics Name Riera Matamoros 934642249 NO BOOKING NEEDED
+- [x] book uktrasound Utset c/Laietana 1-11 933894166
+- [x] 2021-04-19 at 9:00 Ultrasound test Utset c/Laietana.
+- [x] 8h-10h Analytics Name Riera Matamoros.
+- [x] check and print [results](https://resultados.cerba.com) of analytics online [[W17_Friday_2021_04_23]]
+	* user: num DNI without letter
+	* pass: 50209673
+- [x] book revision with Dr Morato again. Badamedic c/Baldomer sola 80-82
+- [x] Revision with Surgeon Dr Martínez Ródenas 
+	- [x] Policlínico Via Augusta 29 on Thursday 20th May 17:15 whatsapp 683294208
+- [x] go to Name (btw 8AM  9PM) and get analytics
+- [x]  book X-ray at Utset 933894166
+- [x] get x-rayed
+- [x] Make [[health schedule]]
+- [x] book check for EKG and visit again with Dr Martinez 683294208
+	- [x] get analytics [results](https://resultados.cerba.com) User:DNIwithout letter pass:50209959 ^7459cd
+- [x] Jun 10th 16:45--> EKG 17:00--> Dr Martinez
+- [x] update [[health schedule]]
+- [x] call clinica del Remei 932850010 Re: anesthesiologist
+- [x] book anesthesiologist visit Tuesday 15th 16:30 
+- [x] visit anesthesiologist Clínica del Remei
+- [ ] Check email from Dr Martinez and resend to autorizaciones DKV
+- [ ] get PCR tested Thursday 24th 16:30
+- [ ] get PCR test results

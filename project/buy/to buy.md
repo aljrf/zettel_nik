@@ -1,0 +1,15 @@
+# to buy
+- [x] at amazon.com
+	- [x] lihit lab 3:1 refillable notebook
+	- [x] lihit lab 3:1 puncher
+	- [x] kokuyo a5 notebook cover
+- [x] amazon.es
+	- [x] 20/30 *kokuyo* puncher
+	- [x] 20/30 *kokuyo* metal rings
+	- [x] 20/30 *kokuyo* plastic rings
+- [x] wire rings?
+- [x] 2nd hand macbook pro  [completion:: 2024-01-24]
+- [ ] [near sight glasses](https://es.aliexpress.com/item/4000308198550.html?spm=a2g0s.9042311.0.0.10e863c0vCXeop)
+- [x] Binding contraption: see [[punchers]]  [completion:: 2024-01-24]
+- [x] transparent fountain pen
+- [x] bluetooth receiver

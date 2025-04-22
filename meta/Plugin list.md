@@ -1,0 +1,21 @@
+# Plugin list
+[
+  "tag-wrangler",
+  "obsidian-checklist-plugin",
+  "obsidian-pandoc",
+  "note-refactor-obsidian",
+  "nldates-obsidian",
+  "vantage-obsidian",
+  "obsidian-vimrc-support",
+  "text-snippets-obsidian",
+  "obsidian-custom-attachment-location",
+  "obsidian-outliner",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-filename-heading-sync",
+  "recent-files-obsidian",
+  "dataview",
+  "obsidian-completr",
+  "obsidian-tasks-plugin",
+  "obsidian-spaced-repetition"
+]

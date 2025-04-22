@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./attachments/${filename}",
+  "pastedImageFileName": "${filename}_pic_${date}",
+  "dateTimeFormat": "YYYYMMDDHHmmssSSS",
+  "autoRenameFolder": true,
+  "autoRenameFiles": true
+}

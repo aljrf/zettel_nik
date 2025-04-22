@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "YYYY-[w]ww",
+  "weeklyNoteTemplate": "templates/weekly_review",
+  "weeklyNoteFolder": "CAL",
+  "localeOverride": "system-default"
+}
