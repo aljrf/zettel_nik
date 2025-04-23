@@ -4,16 +4,11 @@
 
 ## Synology apps 
 
-- [ ] Pihole as internet switch
 - [x] Beet: mp3 tagger ✅ 2024-02-12
 - [x] Synology drive 
 - [x] Calibre  [completion:: 2024-01-25]
-- [x] #todo  Calibre web  [completion:: 2024-01-26]
+- [x]  Calibre web  [completion:: 2024-01-26]
 - [ ] Connect to Kodi using NFS https://lamadriguerabit.com/articulos/como-conectar-kodi-a-un-nas-synology-usando-raspberry-pi/
-- [ ] #todo install something to stream media to Kodi
-    - [ ] Upload raspberry media
-    - [ ] upload rest of Pmedia
-- [ ] jupiterlab ?
 - [ ] #todo install musicbrainz
 	- [ ] #todo gather lyrics
 ### Actual NAS directories

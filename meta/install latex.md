@@ -1,3 +1,4 @@
+# install latex
 * Use Texstudio to compile problems.
 ```
 \\begin{exercise}{}{det}

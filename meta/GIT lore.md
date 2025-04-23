@@ -1,4 +1,7 @@
 # GIT lore
+#ref #howto 
+
+#h
 
 Stage: git add
 Commit: git commit -m "message describing commit"

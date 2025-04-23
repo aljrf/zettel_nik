@@ -1,3 +1,4 @@
+# How to tag
 Tag always which kind of note and then contents.
 
 | content       | kind  |
@@ -8,4 +9,3 @@ Tag always which kind of note and then contents.
 | BOM           | doc   |
 | prj/slim      | kreig |
 | prj/mid   inv | note  |
-|               |       |

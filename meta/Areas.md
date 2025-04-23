@@ -3,6 +3,17 @@ Tags: meta, spectrum
 ---
 # Areas
 
+
+## Folders vs tags
+
+- Tags are for "grouping" notes arbitrarily that have nothing else in common.
+- Folders preserve a grouping of files _outside_ of Obsidian
+
+Projects belong in folders
+
+Therefore:
+- Use folders like 
+- Use tags like *todo*, *book*, *learn*, *tracker*
 ## books
 bio
 comedy
@@ -57,15 +68,4 @@ learn/ece
 - ref for future refer
 - Sys system
 
-## Obisidian tags
-1.g run
-1.r eat/scrz
-1.o slp
-1.k str
-2.g material
-tch
-jou
-lrn
-med
-slp
-trk
+

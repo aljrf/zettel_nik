@@ -2,7 +2,7 @@
 
  Hotkeys
 
-# File
+# shortcuts multicommander
 
 
 | command | Shortcut |

@@ -1,6 +1,7 @@
 ---
 Tags: perso 
 ---
+# General del ejercito de la A
 
 
 Y la apostando. ¿Quieres una buena traducción poner? Yo no quiero no lo quiero leer yo a Novel in perro. Déjamelo, ver. A ver, no les quiero decir. ¿Lo quiero ver yo lo conseguiré? Esos dos Estados de Estados de Abastos de abajo está tendido a escribir grande, eso es gran perro, es grande, grande. Esto es lo que arriba es grande. Entonces era grande y lo que pone el II. Ajá, Mira Helio. Grande comparado meses. También que pone grande compa doméstica a esto grande, un grande como doméstica, gran cabra. ¿Montón en cabra, gran cabrón no? Noelia, gran montaña dia. Está contando el que gran compra venta de este año sea cabrón. Eso le gusta el agua. Te amo, mariscal, pero no mariscal sería la palabra más larga y además, ella viste de televisión y ponía gran compra. Estuvieron entre los que también es chula. Empezamos a buscar al mariscal y no, pero no eran chulos los kanji. Entonces, previamente, hemos cabrón, salió cabrón y yo en la Chula, pues Noelia. ¿Que además mariscal está formado por unas letras, tengo una de cada salida en un montón de canje porque era general del Ejército de la A, tengo una para allá de ser papá o es la traducción de? Corazón frío. Holger Tío, eres una mujer, me paso un pase a una.
