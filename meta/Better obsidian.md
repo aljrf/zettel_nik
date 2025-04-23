@@ -1,3 +1,8 @@
+---
+dg-home: "true"
+"dg-publish:": "true"
+---
+
 # Better obsidian
 
 - [x]  implement [[flashcardism]] ✅ 2024-02-02

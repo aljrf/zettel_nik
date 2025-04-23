@@ -1,5 +1,6 @@
 # Publish Your Obsidian Vault (in 2 minutes)
 
+
 ### Step 1: Install the Flowershow Plugin
 
 1. Open Obsidian.
