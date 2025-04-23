@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/better-obsidian/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/meta/better-obsidian/"}
 ---
 
 
