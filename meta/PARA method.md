@@ -1,7 +1,23 @@
 ---
 Tags: meta, spectrum 
 ---
-# Areas
+# PARA method
+
+- Projects --folders inside area
+- Areas -- folder
+- Resources -- folder ref outside area tagged as ref and as area
+- Archive -- project folders move to folder archive inside area
+
+- Area1
+	- Project2
+	- Project3
+	- Archive
+		- Project1
+- Area2
+	- Project3
+	- Project4
+- Ref
+
 
 
 ## Folders vs tags
@@ -10,10 +26,17 @@ Tags: meta, spectrum
 - Folders preserve a grouping of files _outside_ of Obsidian
 
 Projects belong in folders
+In general, create folders for
+- Software, tools, libraries, etc. that require more than one note (e.g., Python, Pandas, JavaScript, Obsidian)
+- Major content areas (e.g., web development, statistics, fitness).
+
 
 Therefore:
-- Use folders like 
-- Use tags like *todo*, *book*, *learn*, *tracker*
+- Use folders like
+	- bod, lana, psi, them, we, kid 
+	- Create a parent note with the same note as the folder to act as moc
+	- Use parent property instead of subfoldering inside a folder
+- Use tags like *todo*, *book*, *learn*, *tracker* as metastructure across folders
 ## books
 bio
 comedy
