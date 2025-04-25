@@ -1,4 +1,4 @@
-﻿Title	Authors	Page	Date	Highlight	Comment
+Title	Authors	Page	Date	Highlight	Comment
 Le Deuxieme Sexe/ the Second Sex (Folio Essais) (French Edition)	Simone de Beauvoir	15	2023-06-12 23:30:59	l’esprit sur le corps et le choix sur la contingence.	
 Le Deuxieme Sexe/ the Second Sex (Folio Essais) (French Edition)	Simone de Beauvoir	23	2023-06-25 19:51:33	S’il n’y a plus aujourd’hui de féminité, c’est qu’il n’y en a jamais eu.	
 Le Deuxieme Sexe/ the Second Sex (Folio Essais) (French Edition)	Simone de Beauvoir	33	2023-06-25 21:19:37	le présent enveloppe le passé, et dans le passé toute l’histoire a été faite par les mâles.	
@@ -126,7 +126,6 @@ How Reading Changed My Life	Anna Quindlen	24	2023-08-27 15:46:21	The Forsyte Sag
 How Reading Changed My Life	Anna Quindlen	26	2023-08-27 18:08:54	The discussion took fire, producing much heat, little light,	
 How Reading Changed My Life	Anna Quindlen	26	2023-08-27 18:11:46	the uses of reading are vast and variegated, and that some of them are not addressed by Homer	
 How Reading Changed My Life	Anna Quindlen	27	2023-08-27 18:13:21	Roald Dahl wrote in Matilda	book
-How Reading Changed My Life	Anna Quindlen	28	2023-08-27 18:16:24	Catcher in the Rye	book for Irina
 How Reading Changed My Life	Anna Quindlen	29	2023-08-27 18:18:07	Portnoy’s Complaint	book
 How Reading Changed My Life	Anna Quindlen	31	2023-08-27 18:24:48	Mary McCarthy, and the enormously popular and controversial roman à clef about her Vassar classmates entitled The Group.	book
 How Reading Changed My Life	Anna Quindlen	34	2023-08-27 18:30:25	A Wrinkle in Time	book
@@ -329,7 +328,7 @@ Yours is the Earth and everything that’s in it,
 And—which is more—you’ll be a Man, my son"	
 The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	195	2023-08-22 16:53:45	Ecclesiastes was written by a man called Koheleth	
 The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	199	2023-08-22 17:00:44	This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to everyone that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown, or to any man or number of men—go freely with powerful uneducated persons, and with the young, and with the mothers of families—re-examine all you have been told in school or church or in any book, and dismiss whatever insults your own soul; and your very flesh shall be a great poem, and have the richest fluency, not only in its words, but in the silent lines of its lips and face, and between the lashes of your eyes, and in every motion and joint of your body.	
-The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	201	2023-08-22 17:03:13	I couldn’t find a lie I was willing to tell him	telling Irina about death
+The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	201	2023-08-22 17:03:13	I couldn’t find a lie I was willing to tell him	telling kid about death
 The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	211	2023-08-22 23:53:54	It still rankles that this lovely being was stuck in a world where virtue needs a superhuman monitor. Her culture, our culture, failed her	
 The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	213	2023-08-23 00:01:57	A rule without explanation or evident logic is a morality of obedience, rather than one that follows good sense and good feeling	
 The Wonder Paradox: Embracing the Weirdness of Existence and the Poetry of Our Lives	Jennifer Michael Hecht	218	2023-08-23 00:14:45	Wherever something is, something else also is. And I think it is important that whatever the regimes are saying—that the artist keeps himself ready to enter the other plea. Perhaps it’s not tidy—perhaps we are contradicting ourselves. But one of your poets has said, “Do I contradict myself? Very well.”	whitman was the one that was ok with contradiction

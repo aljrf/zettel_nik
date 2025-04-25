@@ -1,5 +1,5 @@
 ---
-Tags: irina, teach 
+Tags: kid, teach 
 ---
 
 ![[teach/cat/attachments/conjuncions/conjuncions_pic_20220602111339069.png]]

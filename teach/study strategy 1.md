@@ -1,5 +1,5 @@
 ---
-Tags: irina, teach, perso
+Tags: kid, teach, perso
 creation: '2022-06-01'
 ---
 # study strategy 1
