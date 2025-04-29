@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/spectrum/calendrical/","tags":["gardenEntry"]}
+dg-publish: true
+permalink: /spectrum/calendrical/
+tags: []
 ---
 
   

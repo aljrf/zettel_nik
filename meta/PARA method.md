@@ -3,6 +3,11 @@ Tags: meta, spectrum
 ---
 # PARA method
 
+[[Types of Notes]]
+
+
+Evergreen, projects and journal are three moods.
+
 - Projects --folders inside area
 - Areas -- folder
 - Resources -- folder ref outside area tagged as ref and as area
